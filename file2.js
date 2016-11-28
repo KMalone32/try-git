@@ -7,5 +7,6 @@ var journal = [
   "why do I keep doing this to myself?",
   "yep",
   "still haven't pushed",
-  "still doing this"
+  "still doing this",
+  "one more time?"
 ]
