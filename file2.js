@@ -5,5 +5,6 @@ var journal = [
   "numero quatro.",
   "too many times....",
   "why do I keep doing this to myself?",
-  "yep"
+  "yep",
+  "still haven't pushed"
 ]
